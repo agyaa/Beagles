@@ -8,3 +8,5 @@ Pico - one correct digit is in the correct place
 Fermi - one correct digit is in the wrong place
 
 Beagles - all the digits from your guess are not in the number at all
+
+Good luck!
